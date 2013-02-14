@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  sha: MyString
+  author: MyString
+  committed_at: 2013-02-13 17:20:54
+  message: MyText
+  diff: MyText
+
+two:
+  sha: MyString
+  author: MyString
+  committed_at: 2013-02-13 17:20:54
+  message: MyText
+  diff: MyText
